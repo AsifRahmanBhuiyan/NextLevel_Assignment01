@@ -2,7 +2,8 @@
 
 Both are used to describe the shape of data, like what properties an object should have. Interfaces are usually used for objects and work great with classes. Types are more flexible and you can use them for objects, but also for combining things. They’re very similar, but type is a bit more powerful. I usually use interface for simple stuff, and type when things get more complex.
 
-2) What is keyof?
+2) What is the use of the keyof keyword in TypeScript? Provide an example.
+
 The keyof keyword just means "give me the property names of a type."
 
 Example:
